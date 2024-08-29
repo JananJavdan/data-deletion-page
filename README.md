@@ -9,7 +9,7 @@
 <body>
     <h1>User Data Deletion Request</h1>
     <p>If you would like to delete your account and all associated data, please send an email to:</p>
-    <p><a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    <p><a href="fjavdan2000@gmail.com"></a></p>
     <p>Include the subject line: "Data Deletion Request" and provide your user details.</p>
 </body>
 </html>
